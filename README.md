@@ -1,0 +1,2 @@
+# sistemcerdas
+tugas so

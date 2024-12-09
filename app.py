@@ -56,7 +56,7 @@ def show_home():
     st.title("Selamat Datang di Aplikasi Prediksi Harga Rumah")
     
     # Display an image on the home page
-    st.image(r'D:\Raka\Sistem Cerdas\rumah.jpg', use_container_width=True)
+    st.image('rumah.jpg', use_container_width=True)
 
     st.markdown(""" 
     Aplikasi ini dibuat untuk membantu Anda memprediksi harga rumah berdasarkan beberapa fitur rumah. 

@@ -76,8 +76,6 @@ def show_home():
     ### Pembuat Aplikasi
     Aplikasi ini dibuat oleh KELOMPOK 4 dalam bidang data science dan machine learning.
     Pembuat aplikasi ini memiliki pengalaman dalam membangun model prediktif untuk membantu pengambilan keputusan berbasis data.
-
-    Terima kasih telah menggunakan aplikasi ini!
     
     ### 1. **Judul**:
     **Prediksi Harga Rumah Menggunakan Machine Learning** 
@@ -97,8 +95,7 @@ def show_home():
     - **Metode**: Dalam aplikasi ini, model **Linear Regression** digunakan untuk memprediksi harga rumah berdasarkan fitur seperti luas bangunan, luas tanah, jumlah kamar tidur, kamar mandi, dan garasi.
     - **Evaluasi Model**: Model dievaluasi menggunakan metrik MAE (Mean Absolute Error), MSE (Mean Squared Error), dan R² score untuk mengevaluasi kualitas prediksi.
 
-    ### 6. **Demo Kasus/Prediksi via Web**:
-    Setelah model dilatih, pengguna dapat memasukkan data rumah melalui interface web ini, seperti luas bangunan, luas tanah, jumlah kamar tidur, dan lainnya untuk mendapatkan prediksi harga rumah mereka.
+    ### 6. **Terima kasih telah menggunakan aplikasi ini!**
     """)
 
 # Function to show sidebar and navigation with modern dropdown
